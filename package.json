@@ -1,0 +1,24 @@
+{
+  "name": "step-it-up",
+  "version": "1.0.0",
+  "description": "Track your workouts, and plan workouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonofNun15/step-it-up.git"
+  },
+  "keywords": [
+    "parse-server",
+    "fitness",
+    "workouts"
+  ],
+  "author": "Josh Graber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonofNun15/step-it-up/issues"
+  },
+  "homepage": "https://github.com/SonofNun15/step-it-up#readme"
+}
